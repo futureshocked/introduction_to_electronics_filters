@@ -1,7 +1,7 @@
 
 # 📚 Python Scripts for Introduction to Electronics Filters
 
-Welcome to the official repository of Python scripts accompanying the book and video course ** Introduction to Electronics Filters ** from [Tech Explorations](https://techexplorations.com). These scripts help you visualize and simulate the behaviour of first-order and second-order filters and perform other calculations related to basic electronic circuits.
+Welcome to the official repository of Python scripts accompanying the book and video course **Introduction to Electronics Filters** from [Tech Explorations](https://techexplorations.com). These scripts help you visualize and simulate the behaviour of first-order and second-order filters and perform other calculations related to basic electronic circuits.
 
 This repository is designed to be a practical companion to your learning journey, enabling you to:
 
